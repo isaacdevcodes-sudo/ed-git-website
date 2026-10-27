@@ -1,7 +1,7 @@
 # ed-git-website
 
 ## Descripción
-Repositorio de la página web corporativa para Tech Solutions, una empresa ficticia dedicada al desarrollo de software y consultoría tecnológica.
+Repositorio de la página web corporativa para EcoVerde Consultoría, una empresa ficticia dedicada a la consultoría ambiental y soluciones de sostenibilidad.
 
 ## Tecnologías utilizadas
 * HTML
